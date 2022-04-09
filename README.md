@@ -15,14 +15,14 @@ https://github.com/ethanavatar/MyUnityToolkit.git
  - [PlayerController2D](#PlayerController2D)
 
 This package contains the following scripts:
-### CameraFollow
+### [CameraFollow](Scripts/CameraFollow.cs)
 
 Attaches to a camera object and follows a target object using SmoothDamp, with a configurable Vector3 offset.
 
-### DynamicGravity
+### [DynamicGravity](Scripts/DynamicGravity.cs)
 
 Attaches to a player object and increases the gravity scale based on releasing the jump button to create a variable jump height.
 
-### PlayerController2D
+### [PlayerController2D](Scripts/PlayerController2D.cs)
 
 A 2D player Controller that can be configured to be used as side-scrolling or top-down.
