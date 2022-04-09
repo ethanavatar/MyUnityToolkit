@@ -1,0 +1,15 @@
+{
+    "name": "com.wannabe.toolkit",
+    "version": "0.0.0",
+    "displayName": "Quickstart",
+    "description": "A collection of scripts I use across Unity projects",
+    "unity": "2020.3",
+
+    "licensesUrl": "https://github.com/ethanavatar/MyUnityToolkit/blob/main/LICENSE",
+
+    "author": {
+      "name": "Ethan Evans",
+      "email": "ethanalexevans@gmail.com"
+    },
+    "type": "library"
+  }
